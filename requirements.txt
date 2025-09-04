@@ -1,6 +1,0 @@
-streamlit
-openai
-pandas
-chromadb
-onnxruntime
-tiktoken
