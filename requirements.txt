@@ -1,6 +1,0 @@
-streamlit
-openai
-pandas
-chromadb==0.4.24
-onnxruntime
-tiktoken
